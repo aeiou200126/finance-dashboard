@@ -5,7 +5,7 @@ import logging
 import http.server
 import socketserver
 from concurrent.futures import ThreadPoolExecutor
-from google import genai
+import google.generativeai as genai
 
 from news_scraper import fetch_all_news, save_to_json as save_news
 from market_data import fetch_all_market_data, save_to_json as save_market
