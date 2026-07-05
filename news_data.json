@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 12:07:07",
+  "updated_at": "2026-07-05 12:14:47",
   "sources": {
     "economic_daily": {
       "name": "經濟日報",
@@ -66,6 +66,11 @@
       "name": "彭博 (Bloomberg)",
       "news": [
         {
+          "title": "Iran War Looms Over NATO Summit",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-05/iran-war-looms-over-nato-summit-video",
+          "published": "Sun, 05 Jul 2026 12:04:51 GMT"
+        },
+        {
           "title": "OPEC+ Ratifies Planned Oil Quota Hike as Gulf Flows Rebound",
           "link": "https://www.bloomberg.com/news/articles/2026-07-05/opec-agrees-another-modest-oil-output-quota-hike-for-august",
           "published": "Sun, 05 Jul 2026 10:17:44 GMT"
@@ -109,11 +114,6 @@
           "title": "Investors Looking for Shelter From AI Storm Are Turning to India",
           "link": "https://www.bloomberg.com/news/articles/2026-07-05/investors-looking-for-shelter-from-ai-storm-are-turning-to-india",
           "published": "Sun, 05 Jul 2026 02:00:00 GMT"
-        },
-        {
-          "title": "Storms Prompt Evacuations at Washington’s July 4 Festivities",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-04/extreme-heat-breaks-across-eastern-us-severe-thunderstorms-to-follow",
-          "published": "Sat, 04 Jul 2026 10:14:17 GMT"
         }
       ],
       "count": 10
