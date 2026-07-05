@@ -62,10 +62,13 @@
                 });
         }
 
-        // 啟動讀取
-        loadData('./ai_summary.json', 'ai-summary-box');
-        loadData('./news_data.json', 'news-box');
-        loadData('./market_data.json', 'market-box');
+        // 你的 GitHub 專案名稱是 finance-dashboard
+// 所以我們強制指定從 /finance-dashboard/ 資料夾內去抓檔案
+const repoName = '/finance-dashboard'; 
+
+loadData(repoName + '/ai_summary.json', 'ai-summary-box');
+loadData(repoName + '/news_data.json', 'news-box');
+loadData(repoName + '/market_data.json', 'market-box');
     </script>
 </body>
 </html>
